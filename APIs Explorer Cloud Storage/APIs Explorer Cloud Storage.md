@@ -1,4 +1,8 @@
-# APIs Explorer: Cloud Storage || [GSP421](https://www.cloudskillsboost.google/focuses/3632?parent=catalog) ||
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/API%20Gateway%20Qwik%20Start/gsp872.sh
+
+sudo chmod +x gsp872.sh
+
+./gsp872.sh# APIs Explorer: Cloud Storage || [GSP421](https://www.cloudskillsboost.google/focuses/3632?parent=catalog) ||
 
 ## Solution [here](https://youtu.be/E2ztBJM9ycY)
 
